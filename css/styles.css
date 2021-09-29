@@ -1,0 +1,19 @@
+.col1 {
+	background-color: red;
+	color: whitesmoke;
+}
+
+.col2 {
+	background-color: deepskyblue;
+	color: whitesmoke;
+}
+
+.nested-col-1 {
+    background-color: darkgoldenrod;
+    color: whitesmoke;
+}
+
+.nested-col-2 {
+	background-color: green;
+	color: whitesmoke;
+}
